@@ -10,7 +10,7 @@ execute_dataform_repositories = true
 create_dataform_datasets      = true
 dataform_repositories         = {
   sample-repo-1 = {
-    remote_repo_url = "https://github.com/aleindecker/dataform-repo.git"
+    remote_repo_url = "<GITHUB_DATAFORM_REPOSITORY>"
   }
 }
 
