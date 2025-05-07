@@ -1,0 +1,6 @@
+terraform {
+  backend "gcs" {
+    bucket = "aef-annie-l-advisory-project-tfe"
+    prefix = "<TERRAFORM_ENV>"
+  }
+}

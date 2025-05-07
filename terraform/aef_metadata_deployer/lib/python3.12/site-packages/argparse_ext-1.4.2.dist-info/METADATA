@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: argparse-ext
+Version: 1.4.2
+Summary: argparse extension;
+Home-page: https://github.com/cykerway/argparse-ext
+Author: Cyker Way
+Author-email: cykerway@example.com
+License: UNKNOWN
+Project-URL: Funding, https://paypal.me/cykerway
+Project-URL: Source, https://github.com/cykerway/argparse-ext/
+Project-URL: Tracker, https://github.com/cykerway/argparse-ext/issues
+Keywords: argparse,extension
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Description-Content-Type: text/markdown
+
+# argparse-ext
+
+argparse extension;
+
+## install
+
+    pip install argparse-ext
+
+## license
+
+Copyright (C) 2018-2021 Cyker Way
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+

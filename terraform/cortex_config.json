@@ -1,0 +1,23 @@
+{
+    "deployDataMesh": true,
+    "projectIdSource": "annie-l-advisory-project",
+    "projectIdTarget": "annie-l-advisory-project",
+    "targetBucket": "annie-l-advisory-project-cortex-tmp-bucket",
+    "location": "us-central1",
+    "DataMesh": {
+        "deployDescriptions": true,
+        "deployLakes": true,
+        "deployCatalog": true,
+        "deployACLs": true
+    },
+    "k9": {
+        "datasets": {
+            "processing": "K9_PROCESSING",
+            "reporting": "K9_REPORTING"
+        }
+    },
+    "VertexAI": {
+        "region": "REGION",
+        "processingDataset": "VERTEXDATASET"
+    }
+}

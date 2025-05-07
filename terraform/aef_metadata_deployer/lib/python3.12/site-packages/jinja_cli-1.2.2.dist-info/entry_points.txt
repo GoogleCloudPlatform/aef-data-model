@@ -1,0 +1,3 @@
+[console_scripts]
+jinja = jinja_cli.__main__:main
+
